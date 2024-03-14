@@ -1,0 +1,31 @@
+header {
+    font-family: "Trocchi", serif;
+    padding: 1%;
+    color: #352E34;
+    background-color:#F9F6F1;
+}
+h1{
+    font-weight: 600;
+}
+nav{
+    text-align: center;
+    word-spacing: 70px;
+    font-size: larger;
+}
+nav a {
+    color: #352E34;
+}
+hr.line1 {
+    border: 1px solid;
+    opacity: 1;
+}
+hr.line2{
+    border: 2px solid;
+    opacity: 1;
+}
+main{
+    font-family: "DM Mono", monospace;
+}
+body {
+    background-color: #F9F6F1;
+}
