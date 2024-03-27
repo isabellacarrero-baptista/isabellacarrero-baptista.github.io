@@ -2,30 +2,55 @@ header {
     font-family: "Trocchi", serif;
     padding: 1%;
     color: #352E34;
-    background-color:#F9F6F1;
+    background-color: #F9F6F1;
 }
-h1{
+
+h1 {
     font-weight: 600;
 }
-nav{
-    text-align: center;
-    word-spacing: 70px;
+
+nav {
     font-size: larger;
 }
+
 nav a {
     color: #352E34;
 }
+
 hr.line1 {
     border: 1px solid;
     opacity: 1;
 }
-hr.line2{
+
+hr.line2 {
     border: 2px solid;
     opacity: 1;
 }
-main{
-    font-family: "DM Mono", monospace;
+
+.divline {
+    border: 1.5px solid;
+    opacity: 1;
 }
+
+.subject {
+    font-style: italic;
+}
+
+main {
+    font-family: "DM Mono", monospace;
+    padding: 30px;
+    color: #352E34;
+}
+
 body {
     background-color: #F9F6F1;
+}
+
+.socials {
+    padding: 50px;
+}
+
+.clipLink {
+    color: #352E34;
+    font-weight: bold;
 }
